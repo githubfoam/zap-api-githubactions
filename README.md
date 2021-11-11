@@ -1,2 +1,4 @@
 # zap-api-githubactions
-zap api scan githubactions
+~~~
+https://www.zaproxy.org/
+~~~
